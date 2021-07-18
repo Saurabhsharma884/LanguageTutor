@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Language Tutor</string>
+    <string name="japanese">JAPANESE</string>
+    <string name="indian">HINDI</string>
+    <string name="german">GERMAN</string>
+    <string name="spanish">SPANISH</string>
+    <string name="french">FRENCH</string>
+    <string name="korean">KOREAN</string>
 </resources>
